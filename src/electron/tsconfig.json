@@ -1,6 +1,7 @@
 {
     "compilerOptions": {
         "strict": true,
+        "types": ["../../types.d.ts"],
         "target": "ESNext",
         "module": "NodeNext",
         "outDir": "../../dist-electron",
